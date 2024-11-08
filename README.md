@@ -7,6 +7,8 @@ As economists we want to analyze market data for good markets to make investment
 
 **Dataset:**
 This dataset was captured off of the website Kaagle:
+https://www.kaggle.com/datasets/tunguz/country-regional-and-world-gdp
+Cleaned up version for program use:
 https://docs.google.com/spreadsheets/d/1PQ_p5oD1L6g9YKN4MlfnJzuxeByl1PGRgLKJ5maTZ2g/edit?usp=sharing
 
 **UML Diagram:**
