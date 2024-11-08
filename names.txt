@@ -1,0 +1,196 @@
+Aruba
+Afghanistan
+Angola
+Albania
+Andorra
+United Arab Emirates
+Argentina
+Armenia
+American Samoa
+Antigua and Barbuda
+Australia
+Austria
+Azerbaijan
+Burundi
+Belgium
+Benin
+Burkina Faso
+Bangladesh
+Bulgaria
+Bahrain
+Bahamas, The
+Bosnia and Herzegovina
+Belarus
+Belize
+Bermuda
+Bolivia
+Brazil
+Barbados
+Brunei Darussalam
+Bhutan
+Botswana
+Central African Republic
+Canada
+Switzerland
+Channel Islands
+Chile
+China
+Cote d'Ivoire
+Cameroon
+Congo, Dem. Rep.
+Congo, Rep.
+Colombia
+Comoros
+Cabo Verde
+Costa Rica
+Curacao
+Cayman Islands
+Cyprus
+Czechia
+Germany
+Djibouti
+Dominica
+Denmark
+Dominican Republic
+Algeria
+Ecuador
+Egypt, Arab Rep.
+Euro area
+Spain
+Estonia
+Ethiopia
+Finland
+Fiji
+France
+Faroe Islands
+Gabon
+United Kingdom
+Georgia
+Ghana
+Guinea
+Gambia, The
+Guinea-Bissau
+Greece
+Grenada
+Guatemala
+Guam
+Guyana
+Honduras
+Croatia
+Haiti
+Hungary
+Indonesia
+India
+Ireland
+Iran, Islamic Rep.
+Iraq
+Iceland
+Israel
+Italy
+Jamaica
+Jordan
+Japan
+Kazakhstan
+Kenya
+Kyrgyz Republic
+Cambodia
+Kiribati
+Korea, Rep.
+Kuwait
+Lao PDR
+Lebanon
+Liberia
+Libya
+St. Lucia
+Liechtenstein
+Sri Lanka
+Lesotho
+Lithuania
+Luxembourg
+Latvia
+Morocco
+Monaco
+Moldova
+Madagascar
+Maldives
+Mexico
+Marshall Islands
+North Macedonia
+Mali
+Malta
+Myanmar
+Montenegro
+Mongolia
+Mozambique
+Mauritania
+Mauritius
+Malawi
+Malaysia
+North America
+Namibia
+New Caledonia
+Niger
+Nigeria
+Nicaragua
+Netherlands
+Norway
+Nepal
+Nauru
+New Zealand
+Pakistan
+Panama
+Peru
+Philippines
+Palau
+Papua New Guinea
+Poland
+Puerto Rico
+Portugal
+Paraguay
+French Polynesia
+Qatar
+Romania
+Russian Federation
+Rwanda
+South Asia
+Saudi Arabia
+Sudan
+Senegal
+Singapore
+Solomon Islands
+Sierra Leone
+El Salvador
+Somalia
+Serbia
+Suriname
+Slovak Republic
+Slovenia
+Sweden
+Eswatini
+Seychelles
+Turks and Caicos Islands
+Chad
+Togo
+Thailand
+Tajikistan
+Turkmenistan
+Timor-Leste
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkiye
+Tuvalu
+Tanzania
+Uganda
+Ukraine
+Uruguay
+United States
+Uzbekistan
+St. Vincent and the Grenadines
+Viet Nam
+Vanuatu
+Samoa
+Kosovo
+South Africa
+Zambia
+Zimbabwe
